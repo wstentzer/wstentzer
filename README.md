@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @wstentzer
+- 👀 I’m interested in python and AI development
+- 🌱 I’m currently learning python
+- 📫 How to reach me: no
